@@ -85,6 +85,9 @@ master.menu.administrator.dashboard = Panel de control
 
 master.menu.administrator.list-notice = Listar noticias
 
+master.menu.administrator.list-inquirie = Listar peticiones
+master.menu.administrator.create-inquirie = Crear peticion
+
 # master.menu.provider ########################################################
 
 master.menu.provider = Proveedor
