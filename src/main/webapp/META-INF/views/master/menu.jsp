@@ -67,6 +67,9 @@
 			<acme:menu-separator/>
 			<acme:menu-suboption code="master.menu.administrator.list-notice" action="/administrator/notice/list"/>
 			<acme:menu-separator/>
+			<acme:menu-suboption code="master.menu.administrator.create-overture" action="/administrator/overture/create"/>
+			<acme:menu-suboption code="master.menu.administrator.list-overture" action="/administrator/overture/list"/>
+			<acme:menu-separator/>
 			
 			<acme:menu-suboption code="master.menu.administrator.shutdown" action="/master/shutdown"/>
 		</acme:menu-option>
