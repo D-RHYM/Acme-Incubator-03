@@ -71,6 +71,10 @@
 			<acme:menu-suboption code="master.menu.administrator.list-challenge" action="/administrator/challenge/list" />
 			<acme:menu-suboption code="master.menu.administrator.create-challenge" action="/administrator/challenge/create" />
 			
+				<acme:menu-separator/>
+			<acme:menu-suboption code="master.menu.administrator.list-tool-record" action="/administrator/tool-record/list" />
+			<acme:menu-suboption code="master.menu.administrator.create-tool-record" action="/administrator/tool-record/create" />
+			
 			<acme:menu-separator/>
 			<acme:menu-suboption code="master.menu.administrator.shutdown" action="/master/shutdown"/>
 		</acme:menu-option>
