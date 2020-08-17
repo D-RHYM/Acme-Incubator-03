@@ -81,7 +81,7 @@ master.menu.administrator.list-customisation-parameters = Listar parámetros de 
 master.menu.administrator.user-accounts = Cuentas de usuario
 master.menu.administrator.shutdown = Parar el sistema
 
-master.menu.administrator.tool-record = Registro de herramientas
+master.menu.administrator.create-tool-record = Registro de herramientas
 master.menu.administrator.list-tool-record = Listar registros de herramientas
 
 master.menu.administrator.list-challenge = Listar y editar desafios

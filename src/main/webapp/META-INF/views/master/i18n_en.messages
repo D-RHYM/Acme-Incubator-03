@@ -80,7 +80,7 @@ master.menu.administrator.list-customisation-parameters = List customisation par
 master.menu.administrator.user-accounts = User accounts
 master.menu.administrator.shutdown = Shut down
 
-master.menu.administrator.tool-record = Tool Records
+master.menu.administrator.create-tool-record = Tool Records
 master.menu.administrator.list-tool-record = List Tool Record
 
 master.menu.administrator.list-challenge = List and edit challenges
