@@ -91,6 +91,9 @@ master.menu.administrator.create-inquirie = Create inquirie
 master.menu.administrator.list-overture = List overtures
 master.menu.administrator.create-overture = Create overture
 
+master.menu.administrator.create-techRecord = Create tech record
+master.menu.administrator.list-techRecord = List tech records
+
 # master.menu.provider ########################################################
 
 master.menu.provider = Provider

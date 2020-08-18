@@ -68,6 +68,9 @@
 			<acme:menu-suboption code="master.menu.administrator.create-notice" action="/administrator/notice/create"/>
 			<acme:menu-suboption code="master.menu.administrator.list-notice" action="/administrator/notice/list"/>
 			<acme:menu-separator/>
+			<acme:menu-suboption code="master.menu.administrator.create-techRecord" action="/administrator/tech-record/create"/>
+			<acme:menu-suboption code="master.menu.administrator.list-techRecord" action="/administrator/tech-record/list"/>
+		<acme:menu-separator/>
 			<acme:menu-suboption code="master.menu.administrator.create-overture" action="/administrator/overture/create"/>
 			<acme:menu-suboption code="master.menu.administrator.list-overture" action="/administrator/overture/list"/>
 			<acme:menu-separator/>

@@ -92,6 +92,9 @@ master.menu.administrator.create-inquirie = Crear peticion
 master.menu.administrator.list-overture = Listar overturas
 master.menu.administrator.create-overture = Crear overtura
 
+master.menu.administrator.create-techRecord = Crear registro de tecnologia
+master.menu.administrator.list-techRecord = Listar registros de tecnologia
+
 # master.menu.provider ########################################################
 
 master.menu.provider = Proveedor
