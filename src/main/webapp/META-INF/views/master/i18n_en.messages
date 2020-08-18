@@ -88,6 +88,9 @@ master.menu.administrator.create-notice = Create notice
 master.menu.administrator.list-inquirie = List inquiries
 master.menu.administrator.create-inquirie = Create inquirie
 
+master.menu.administrator.list-overture = List overtures
+master.menu.administrator.create-overture = Create overture
+
 # master.menu.provider ########################################################
 
 master.menu.provider = Provider

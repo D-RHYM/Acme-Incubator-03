@@ -89,6 +89,9 @@ master.menu.administrator.create-notice = Crear noticia
 master.menu.administrator.list-inquirie = Listar peticiones
 master.menu.administrator.create-inquirie = Crear peticion
 
+master.menu.administrator.list-overture = Listar overturas
+master.menu.administrator.create-overture = Crear overtura
+
 # master.menu.provider ########################################################
 
 master.menu.provider = Proveedor
