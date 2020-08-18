@@ -85,6 +85,9 @@ master.menu.administrator.dashboard = Dashboard
 master.menu.administrator.list-notice = List notices
 master.menu.administrator.create-notice = Create notice
 
+master.menu.administrator.list-inquirie = List inquiries
+master.menu.administrator.create-inquirie = Create inquirie
+
 # master.menu.provider ########################################################
 
 master.menu.provider = Provider
