@@ -84,6 +84,9 @@ master.menu.administrator.dashboard = Dashboard
 
 master.menu.administrator.list-notice = List notices
 
+master.menu.administrator.create-techRecord = Create tech record
+master.menu.administrator.list-techRecord = List tech records
+
 # master.menu.provider ########################################################
 
 master.menu.provider = Provider
