@@ -83,6 +83,7 @@ master.menu.administrator.shutdown = Shut down
 master.menu.administrator.dashboard = Dashboard
 
 master.menu.administrator.list-notice = List notices
+master.menu.administrator.create-notice = Create notice
 
 # master.menu.provider ########################################################
 

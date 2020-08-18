@@ -84,6 +84,7 @@ master.menu.administrator.shutdown = Parar el sistema
 master.menu.administrator.dashboard = Panel de control
 
 master.menu.administrator.list-notice = Listar noticias
+master.menu.administrator.create-notice = Crear noticia
 
 # master.menu.provider ########################################################
 
