@@ -65,10 +65,14 @@
 			<acme:menu-separator/>
 			<acme:menu-suboption code="master.menu.administrator.user-accounts" action="/administrator/user-account/list"/>
 			<acme:menu-separator/>
+			<acme:menu-suboption code="master.menu.administrator.create-notice" action="/administrator/notice/create"/>
 			<acme:menu-suboption code="master.menu.administrator.list-notice" action="/administrator/notice/list"/>
 			<acme:menu-separator/>
 			<acme:menu-suboption code="master.menu.administrator.create-overture" action="/administrator/overture/create"/>
 			<acme:menu-suboption code="master.menu.administrator.list-overture" action="/administrator/overture/list"/>
+			<acme:menu-separator/>
+			<acme:menu-suboption code="master.menu.administrator.create-inquirie" action="/administrator/inquirie/create"/>
+			<acme:menu-suboption code="master.menu.administrator.list-inquirie" action="/administrator/inquirie/list"/>
 			<acme:menu-separator/>
 			
 			<acme:menu-suboption code="master.menu.administrator.shutdown" action="/master/shutdown"/>

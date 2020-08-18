@@ -84,6 +84,10 @@ master.menu.administrator.shutdown = Parar el sistema
 master.menu.administrator.dashboard = Panel de control
 
 master.menu.administrator.list-notice = Listar noticias
+master.menu.administrator.create-notice = Crear noticia
+
+master.menu.administrator.list-inquirie = Listar peticiones
+master.menu.administrator.create-inquirie = Crear peticion
 
 master.menu.administrator.list-overture = Listar overturas
 master.menu.administrator.create-overture = Crear overtura
