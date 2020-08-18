@@ -80,9 +80,27 @@ master.menu.administrator.list-customisation-parameters = List customisation par
 master.menu.administrator.user-accounts = User accounts
 master.menu.administrator.shutdown = Shut down
 
-master.menu.administrator.dashboard = Dashboard
+master.menu.administrator.create-tool-record = Tool Records
+master.menu.administrator.list-tool-record = List Tool Record
+
+master.menu.administrator.list-challenge = List and edit challenges
+master.menu.administrator.create-challenge = Create challenge
 
 master.menu.administrator.list-notice = List notices
+master.menu.administrator.create-notice = Create notice
+
+master.menu.administrator.list-inquirie = List inquiries
+master.menu.administrator.create-inquirie = Create inquirie
+
+master.menu.administrator.list-overture = List overtures
+master.menu.administrator.create-overture = Create overture
+
+master.menu.administrator.create-techRecord = Create tech record
+master.menu.administrator.list-techRecord = List tech records
+
+master.menu.administrator.dashboard = Dashboard
+
+
 
 # master.menu.provider ########################################################
 
