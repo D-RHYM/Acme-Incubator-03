@@ -10,3 +10,8 @@ administrator.notice.list.label.creationMoment = Momento
 administrator.notice.list.label.title = Titulo
 administrator.notice.list.label.body = Cuerpo
 administrator.notice.list.label.headerPicture = Imagen
+
+administrator.notice.error.deadline = La fecha límite ha de estar en el futuro
+administrator.notice.error.accept = Se debe confirmar la creacion
+administrator.notice.form.button.create = Crear
+administrator.notice.form.label.confirm = Confirmar creacion

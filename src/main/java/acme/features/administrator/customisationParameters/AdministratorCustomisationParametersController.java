@@ -17,15 +17,18 @@ import acme.framework.entities.Administrator;
 public class AdministratorCustomisationParametersController extends AbstractController<Administrator, CustomisationParameters> {
 
 	@Autowired
-	private AdministratorCustomisationParametersListService	listService;
+	private AdministratorCustomisationParametersListService		listService;
 	@Autowired
-	private AdministratorCustomisationParametersShowService	showService;
+	private AdministratorCustomisationParametersShowService		showService;
+	@Autowired
+	private AdministratorCustomisationParametersUpdateService	updateService;
 
 
 	@PostConstruct
 	private void initialise() {
 		super.addBasicCommand(BasicCommand.LIST, this.listService);
 		super.addBasicCommand(BasicCommand.SHOW, this.showService);
+		super.addBasicCommand(BasicCommand.UPDATE, this.updateService);
 	}
 
 }

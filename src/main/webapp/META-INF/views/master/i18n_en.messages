@@ -87,6 +87,16 @@ master.menu.administrator.list-challenge = List and edit challenges
 master.menu.administrator.create-challenge = Create challenge
 
 master.menu.administrator.list-notice = List notices
+master.menu.administrator.create-notice = Create notice
+
+master.menu.administrator.list-inquirie = List inquiries
+master.menu.administrator.create-inquirie = Create inquirie
+
+master.menu.administrator.list-overture = List overtures
+master.menu.administrator.create-overture = Create overture
+
+master.menu.administrator.create-techRecord = Create tech record
+master.menu.administrator.list-techRecord = List tech records
 
 master.menu.administrator.dashboard = Dashboard
 
